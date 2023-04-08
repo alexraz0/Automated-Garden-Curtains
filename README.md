@@ -1,2 +1,2 @@
 # Automated-Garden-Curtains
-Program used to control DC motor curtains using various sensors
+Program used to control DC three independent motor curtains for an automated garden 
